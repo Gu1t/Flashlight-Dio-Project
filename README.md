@@ -2,7 +2,8 @@
 
 Desafio Dio: Construindo um App usando o sensor de movimento com React Native
 
-![qemu-system-x86_64_0vxEq9t7S3](https://user-images.githubusercontent.com/105243951/176289168-deda62a4-670d-4f88-8660-7ef21953d57d.png)  ![qemu-system-x86_64_xaNrHvhVEZ](https://user-images.githubusercontent.com/105243951/176289250-157d8f03-b161-4879-9f54-674033a971cb.png)
+![qemu-system-x86_64_H5xmqWhFqi](https://user-images.githubusercontent.com/105243951/176295695-e17d9d23-6157-4fc9-9855-127764c74526.png)  ![qemu-system-x86_64_wvuMojrpv8](https://user-images.githubusercontent.com/105243951/176295858-186fdbc9-0bbc-47d2-94f7-131221e72642.png)
+
 
 ## Conteúdo
 
